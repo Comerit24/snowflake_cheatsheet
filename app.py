@@ -1,4 +1,5 @@
-
+## Version 1.0 Forked from Aceman23 on Mon Aug 12 2024
+## Comerit Snowflake CheatSheetApp 1.0 August 2024
 
 import streamlit as st
 
